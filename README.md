@@ -12,7 +12,7 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 * How accurate is our model?
 * Is there a correlation between higher scoring teams and winning probability? 
 * Does defense actually win championships?
-* Does having a lot of turnovers cause more losses
+* Does having a lot of turnovers cause more losses?
 
 ## Fields of importance
 * Total Field goal percentage
