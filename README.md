@@ -1,7 +1,12 @@
 # group5-project
 Project for the Data Analytics Bootcamp
 ## Overview of the Analysis
-Through our common interest in basketball we wanted to dig deeper into NBA team statistics. Our plan is to use NBA stats to predict the winner of the current NBA season. We are still trying to determine our data source but we are learning towards using nba-api https://pypi.org/project/nba-api/ as our main source of data.
+Through our common interest in basketball we wanted to dig deeper into NBA team statistics. Our plan is to use NBA stats to predict the winner of the current NBA season. 
+
+Data-set sources:
+https://www.basketball-reference.com/leagues/NBA_2021_per_game.html pulled on 2/18/2021
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Basketball_Association/National_Basketball_Association_team_abbreviations
+https://www.nba.com/standings pulled on 2/18/2021
 
 ## Communication Protocol
 * Slack on both computers and mobile devices
@@ -29,6 +34,8 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 * Total steals
 * Total blocks
 * Amount of turnovers
+
+## Database setup
 
 ## Analysis
 
