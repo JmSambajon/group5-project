@@ -36,8 +36,9 @@ https://www.nba.com/standings pulled on 2/18/2021
 * Amount of turnovers
 
 ## Database setup
-- Create 3 tables
+Our database contains three tables. Here is an ERD of our database.
 
+![ERD](Resources/NBA_statsDB.PNG)
 
 ## Analysis
 
