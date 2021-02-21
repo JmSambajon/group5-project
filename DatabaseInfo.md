@@ -35,6 +35,8 @@ The data used storing into the database are provided in the main repository alon
 - Individual Player Stats
 - NBA Season Stats
 
+[Link to the group5-project Main GitHub Repository](https://github.com/JmSambajon/group5-project)
+
 *A collection of database objects (e.g. tables) based from the ERD schematic above are created in SQL. The datafiles are either uploaded directly into the SQL database or exported using python scripts in jupyter notebook. Once the table is completed, the datafiles are verified by importing the tables back in jupyter notebook. Refer to attached NBA database.ipynb notebook in the main repository.* 
 
 [Link to the NBA Database.ipynb](https://github.com/JmSambajon/group5-project/blob/main/NBA%20Database.ipynb)
