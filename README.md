@@ -9,4 +9,4 @@ The Linear Regression Module was chosen from the "individual_player_stats". The 
 ## Conclusion
 Based on the analysis, there is a direct corelation between Field Goal Made and Points. This means that if an individual player makes more Field Goals, they will be scoring more points.
 
-[]!(Resources/LinearRegressionModule)
+[]!(Resources/LinearRegressionModule.PNG)
