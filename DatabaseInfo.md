@@ -27,11 +27,8 @@ The data used storing into the database are provided in the main repository alon
 
 ![](./Pictures/pic2.png)
 
-<<<<<<< HEAD
 [Link to the postgreSQL schema](https://github.com/JmSambajon/group5-project/blob/main/Resources/schema.sql)
 
-=======
->>>>>>> 7cd0115bd0e81451f8177470aefd86f97215c1c2
 **3) Sample Data, Integration, and Use** 
 
 *Three national basketball association (NBA) datafile sets were choosen to perform data and machine learning analysis. The links are provided in the main repository README.*
