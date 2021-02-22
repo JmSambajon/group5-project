@@ -39,7 +39,7 @@ Data-set sources:
 ## Database setup
 Our database contains three tables. More information on the database setup can be found here:
 
-[Link to the Database Information README](https://github.com/JmSambajon/group5-project/blob/toai_data_analytics/MachineLearningMD.md)
+[Link to the Database Information README](https://github.com/JmSambajon/group5-project/blob/johns_data_analytics/DatabaseInfo.md)
 
 Segment 1 Requirements:
 Provisional database that stands in for the final database and accomplishes the following:
@@ -58,7 +58,7 @@ Machine learning model that stands in for the final machine learning model and a
 
 We plan to use a linear regression model. More information on the model can be found here:
 
-[Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/toai_data_analytics/README.md)
+[Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/toai_data_analytics/MachineLearningMD.md)
 
 ## Results
 
