@@ -1,4 +1,4 @@
-![](./Pictures/pic1.png)
+![](./Pictures/CircleHeader.png)
 
 ### Segment 1 Overview:
 
@@ -17,7 +17,7 @@ The data used storing into the database are provided in the main repository alon
 
 *A Cloud SQL was choosen as the appropriate SQL-based database for this project and an excellent alternative to a local PostgreSQL. It is a fully-managed database service that helps set up, maintain, manage, and administer relational databases on Google Cloud Platform where everyone in the team can access.* 
 
-![](./Pictures/pic3.png)
+![](./Pictures/Cloud.png)
 
 **2) Database ERD:**
 
@@ -25,7 +25,7 @@ The data used storing into the database are provided in the main repository alon
 
 **Figure 1**
 
-![](./Pictures/pic2.png)
+![](./Pictures/CircleERD.png)
 
 [Link to the postgreSQL schema](https://github.com/JmSambajon/group5-project/blob/main/Resources/schema.sql)
 
@@ -47,6 +47,6 @@ The data used storing into the database are provided in the main repository alon
 
 **Database Operation Flow Diagram**
 
-![](./Pictures/pic4.png)
+![](./Pictures/Roles.png)
 
 
