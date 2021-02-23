@@ -1,4 +1,4 @@
-player,pos,age,team,game,gamestarted,minutesplayed,fieldgoalmade,fieldgoalattempt,fieldgoalpercentage,threepointmade,threepa,threepointattempt,twopointmade,twopointattempt,twopointpercentage,efficencyfgpercentage,freethrowsmade,freethrowattempt,freethrowpercentage,offensiverebound,deffensiverebound,totalrebound,assist,steal,block,turnover,personalfoul,points
+player,pos,age,team,game,gamestarted,minutesplayed,fieldgoalmade,fieldgoalattempt,fieldgoalpercentage,threepointmade,Threepointattempt,Threepointpercentage,twopointmade,twopointattempt,twopointpercentage,efficencyfgpercentage,freethrowsmade,freethrowattempt,freethrowpercentage,offensiverebound,defensiverebound,totalrebound,assist,steal,block,turnover,personalfoul,points
 Steven Adams,C,27,NOP,27,27,760,94,156,0.603,0,1,0.0,94,155,0.606,0.603,29,62,0.46800000000000000,116,123,239,58,26,15,46,51,217
 Bam Adebayo,C,23,MIA,27,27,908,198,347,0.5710000000000000,2,5,0.4,196,342,0.573,0.573,136,161,0.845,53,199,252,149,25,27,82,69,534
 LaMarcus Aldridge,C,35,SAS,18,18,480,107,225,0.47600000000000000,24,67,0.358,83,158,0.525,0.529,16,21,0.762,15,63,78,35,7,16,16,27,254
