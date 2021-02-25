@@ -32,7 +32,7 @@ Create Table individual_player_stats (
 	REFERENCES Team_abbreviations(Team)
 );
 
-SELECT * FROM individual_player_stats;
+SELECT * FROM individual_player_stats
 
 Create Table NBA_season_stats (
 	franchise VARCHAR NOT NULL,
@@ -51,15 +51,13 @@ Create Table NBA_season_stats (
 	PRIMARY KEY (franchise)
 );
 
-SELECT * FROM NBA_season_stats;
+SELECT * FROM nba_season_stats
 
 Create Table Team_abbreviations (
 	Team VARCHAR NOT NULL,
 	Franchise VARCHAR NOT NULL,
-	FOREIGN KEY (Franchise) REFERENCES NBA_season_stats (Franchise),
 	PRIMARY KEY (Team)
 );
 
 SELECT * FROM team_abbreviations;
 
-SELECT version();

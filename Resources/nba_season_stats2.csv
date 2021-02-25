@@ -1,0 +1,181 @@
+Franchise,Conference,Win,Lost,WinPercentage,GamesBehind,ConferenceRecord,DivisionRecord,HomeRecord,RoadRecord,OverTimeRecord,Last10Record,Streak
+Atlanta Hawks,Eastern,29,53,0.354,31,16-36,6-10,17-24,12-29,3-1,5-5,L 3
+Atlanta Hawks,Eastern,20,47,0.299,33,11-32,6-7,14-20,6-27,2-4,4-6,L 1
+Atlanta Hawks,Eastern,24,58,0.293,35,12-40,5-11,16-25,8-33,0-1,3-7,L 1
+Atlanta Hawks,Eastern,48,34,0.585,9,29-23,8-8,27-14,21-20,0-5,6-4,L 2
+Atlanta Hawks,Eastern,43,39,0.524,10,30-22,6-10,23-18,20-21,5-0,6-4,L 1
+Atlanta Hawks,Eastern,12,16,0.429,6.5,8-9,1-2,6-9,6-7,1-1,3-7,W 1
+Boston Celtics,Eastern,53,29,0.646,0,36-16,11-5,30-11,23-18,2-1,7-3,W 3
+Boston Celtics,Eastern,55,27,0.671,4,33-19,12-4,27-14,28-13,2-2,6-4,W 1
+Boston Celtics,Eastern,48,24,0.667,7.5,30-13,9-6,26-10,22-14,2-3,6-4,L 1
+Boston Celtics,Eastern,49,33,0.598,11,35-17,10-6,28-13,21-20,4-0,6-4,W 1
+Boston Celtics,Eastern,48,34,0.585,9,31-21,10-6,28-13,20-21,1-2,6-4,W 1
+Boston Celtics,Eastern,14,14,0.5,4.5,10-9,2-4,7-5,7-9,0-0,4-6,L 1
+Brooklyn Nets,Eastern,28,54,0.341,31,19-33,1-15,15-26,13-28,1-5,5-5,L 1
+Brooklyn Nets,Eastern,21,61,0.256,36,12-40,6-10,14-27,7-34,1-2,0-10,L 10
+Brooklyn Nets,Eastern,20,62,0.244,33,11-41,3-13,13-28,7-34,1-1,5-5,L 2
+Brooklyn Nets,Eastern,42,40,0.512,18,29-23,8-8,23-18,19-22,5-2,6-4,W 3
+Brooklyn Nets,Eastern,35,37,0.486,20.5,23-23,6-10,20-16,15-21,3-5,7-3,L 1
+Brooklyn Nets,Eastern,19,12,0.613,1,10-9,3-2,11-5,8-7,1-2,6-4,W 5
+Charlotte Hornets,Eastern,23,42,0.354,29,16-24,2-7,10-21,13-21,2-3,4-6,W 1
+Charlotte Hornets,Eastern,36,46,0.439,23,22-30,11-5,21-20,15-26,2-2,5-5,W 1
+Charlotte Hornets,Eastern,36,46,0.439,17,22-30,10-6,22-19,14-27,0-6,4-6,L 5
+Charlotte Hornets,Eastern,39,43,0.476,21,29-23,10-6,25-16,14-27,1-4,6-4,L 1
+Charlotte Hornets,Eastern,48,34,0.585,9,33-19,8-8,30-11,18-23,5-0,7-3,W 2
+Charlotte Hornets,Eastern,13,15,0.464,5.5,9-9,5-1,8-8,5-7,1-1,6-4,L 1
+Chicago Bulls,Eastern,22,43,0.338,30,15-28,7-9,14-20,8-23,1-2,3-7,W 1
+Chicago Bulls,Eastern,22,60,0.268,38,16-36,3-13,9-32,13-28,3-2,2-8,L 3
+Chicago Bulls,Eastern,27,55,0.329,32,21-31,4-12,17-24,10-31,2-3,3-7,L 4
+Chicago Bulls,Eastern,42,40,0.512,15,25-27,10-6,26-15,16-25,2-4,6-4,W 3
+Chicago Bulls,Eastern,41,41,0.5,12,28-24,9-7,25-16,16-25,2-2,7-3,W 2
+Chicago Bulls,Eastern,12,15,0.444,6,7-7,2-2,5-9,7-6,1-1,5-5,W 2
+Cleveland Cavaliers,Eastern,57,25,0.695,0,35-17,8-8,33-8,24-17,3-3,6-4,L 1
+Cleveland Cavaliers,Eastern,19,63,0.232,41,15-37,4-12,13-28,6-35,0-1,0-10,L 10
+Cleveland Cavaliers,Eastern,19,46,0.292,33,12-32,4-10,11-25,8-21,4-1,4-6,L 1
+Cleveland Cavaliers,Eastern,51,31,0.622,2,35-17,8-8,31-10,20-21,3-4,4-6,L 4
+Cleveland Cavaliers,Eastern,50,32,0.61,9,35-17,11-5,29-12,21-20,2-0,7-3,L 1
+Cleveland Cavaliers,Eastern,10,19,0.345,9,8-9,2-4,7-7,3-12,2-1,1-9,L 8
+Dallas Mavericks,Western,33,49,0.402,34,19-33,5-11,21-20,12-29,2-2,2-8,W 1
+Dallas Mavericks,Western,24,58,0.293,41,14-38,5-11,15-26,9-32,0-5,2-8,L 4
+Dallas Mavericks,Western,33,49,0.402,24,18-34,4-12,24-17,9-32,1-3,5-5,L 1
+Dallas Mavericks,Western,42,40,0.512,31,27-25,7-9,23-18,19-22,8-4,7-3,L 1
+Dallas Mavericks,Western,43,32,0.573,11,27-20,10-4,20-18,23-14,3-4,4-6,L 2
+Dallas Mavericks,Western,13,15,0.464,10.5,7-10,3-1,6-8,7-7,1-1,5-5,L 1
+Denver Nuggets,Western,54,28,0.659,3,34-18,12-4,34-7,20-21,2-0,5-5,W 1
+Denver Nuggets,Western,46,27,0.63,7,29-16,12-2,26-11,20-16,5-3,4-6,L 3
+Denver Nuggets,Western,33,49,0.402,40,18-34,4-12,18-23,15-26,2-4,3-7,L 2
+Denver Nuggets,Western,46,36,0.561,19,28-24,9-7,31-10,15-26,3-4,7-3,L 1
+Denver Nuggets,Western,40,42,0.488,27,24-28,6-10,22-19,18-23,0-3,5-5,W 2
+Denver Nuggets,Western,15,13,0.536,8.5,11-9,5-1,8-6,7-7,2-2,4-6,L 2
+Detroit Pistons,Eastern,41,41,0.5,19,27-25,8-8,26-15,15-26,5-2,4-6,W 2
+Detroit Pistons,Eastern,44,38,0.537,13,29-23,10-6,26-15,18-23,4-1,6-4,W 1
+Detroit Pistons,Eastern,37,45,0.451,16,21-31,5-11,24-17,13-28,3-1,3-7,L 2
+Detroit Pistons,Eastern,20,46,0.303,32.5,12-31,5-10,11-22,9-24,1-4,1-9,L 5
+Detroit Pistons,Eastern,39,43,0.476,20,24-28,9-7,25-16,14-27,1-4,7-3,W 1
+Detroit Pistons,Eastern,8,20,0.286,10.5,5-12,0-7,6-8,2-12,1-3,4-6,L 1
+Golden State Warriors,Western,57,25,0.695,0,35-17,13-3,30-11,27-14,0-5,8-2,L 1
+Golden State Warriors,Western,67,15,0.817,0,42-10,14-2,36-5,31-10,0-3,9-1,W 1
+Golden State Warriors,Western,73,9,0.89,0,46-6,15-1,39-2,34-7,6-1,8-2,W 4
+Golden State Warriors,Western,15,50,0.231,34,9-34,2-11,8-26,7-24,0-5,3-7,L 1
+Golden State Warriors,Western,58,24,0.707,7,34-18,13-3,29-12,29-12,2-0,4-6,L 1
+Golden State Warriors,Western,16,13,0.552,8,9-7,3-2,11-6,5-7,1-1,6-4,W 2
+Houston Rockets,Western,55,27,0.671,12,36-16,10-6,30-11,25-16,3-0,5-5,W 1
+Houston Rockets,Western,41,41,0.5,32,28-24,8-8,23-18,18-23,4-2,6-4,W 3
+Houston Rockets,Western,44,28,0.611,8.5,28-19,8-5,24-12,20-16,2-1,5-5,L 3
+Houston Rockets,Western,53,29,0.646,4,32-20,10-6,31-10,22-19,2-4,8-2,L 1
+Houston Rockets,Western,65,17,0.793,0,41-11,12-4,34-7,31-10,2-0,7-3,L 1
+Houston Rockets,Western,11,17,0.393,12.5,8-10,4-4,5-6,6-11,0-1,2-8,L 7
+Indiana Pacers,Eastern,45,28,0.616,11,28-19,8-7,25-11,20-17,3-1,7-3,W 2
+Indiana Pacers,Eastern,48,34,0.585,12,33-19,11-5,29-12,19-22,1-0,4-6,W 1
+Indiana Pacers,Eastern,48,34,0.585,11,32-20,10-6,27-14,21-20,3-0,7-3,L 1
+Indiana Pacers,Eastern,42,40,0.512,11,26-26,8-8,29-12,13-28,4-2,6-4,W 5
+Indiana Pacers,Eastern,45,37,0.549,12,30-22,8-8,26-15,19-22,1-7,7-3,W 3
+Indiana Pacers,Eastern,15,14,0.517,4,9-8,3-2,7-9,8-5,3-1,4-6,W 1
+Los Angeles Clippers,Western,49,23,0.681,3.5,32-16,8-6,27-9,22-14,2-1,6-4,W 2
+Los Angeles Clippers,Western,51,31,0.622,16,31-21,10-6,29-12,22-19,1-1,8-2,W 7
+Los Angeles Clippers,Western,53,29,0.646,20,31-21,9-7,29-12,24-17,5-1,8-2,L 1
+Los Angeles Clippers,Western,48,34,0.585,9,28-24,11-5,26-15,22-19,5-1,6-4,W 1
+Los Angeles Clippers,Western,42,40,0.512,23,24-28,12-4,22-19,20-21,0-1,4-6,L 4
+Los Angeles Clippers,Western,21,9,0.7,3.5,12-6,5-2,10-5,11-4,0-0,6-4,L 1
+Los Angeles Lakers,Western,37,45,0.451,20,25-27,9-7,22-19,15-26,2-2,6-4,L 1
+Los Angeles Lakers,Western,35,47,0.427,30,19-33,6-10,20-21,15-26,3-5,3-7,W 1
+Los Angeles Lakers,Western,26,56,0.317,41,16-36,6-10,17-24,9-32,1-0,5-5,L 1
+Los Angeles Lakers,Western,17,65,0.207,56,8-44,2-14,12-29,5-36,1-1,2-8,W 1
+Los Angeles Lakers,Western,52,19,0.732,0,36-10,10-3,25-10,27-9,2-0,4-6,L 1
+Los Angeles Lakers,Western,22,8,0.733,2.5,15-5,0-2,9-5,13-3,3-1,8-2,L 1
+Memphis Grizzlies,Western,33,49,0.402,24,24-28,8-8,21-20,12-29,3-4,4-6,W 1
+Memphis Grizzlies,Western,22,60,0.268,43,18-34,5-11,16-25,6-35,0-1,3-7,L 2
+Memphis Grizzlies,Western,34,39,0.466,19,20-26,4-9,20-17,14-22,1-1,3-7,W 1
+Memphis Grizzlies,Western,43,39,0.524,24,28-24,8-8,24-17,19-22,5-2,3-7,L 2
+Memphis Grizzlies,Western,42,40,0.512,31,25-27,7-9,26-15,16-25,3-3,1-9,L 4
+Memphis Grizzlies,Western,12,12,0.5,9.5,6-7,2-4,5-8,7-4,1-1,4-6,W 1
+Miami Heat,Eastern,39,43,0.476,21,23-29,7-9,19-22,20-21,1-1,4-6,L 1
+Miami Heat,Eastern,41,41,0.5,12,27-25,9-7,23-18,18-23,2-1,6-4,W 3
+Miami Heat,Eastern,48,34,0.585,9,31-21,10-6,28-13,20-21,3-3,6-4,L 1
+Miami Heat,Eastern,44,29,0.603,12,30-13,10-4,29-7,15-22,8-1,4-6,L 2
+Miami Heat,Eastern,44,38,0.537,15,31-21,11-5,26-15,18-23,3-6,5-5,W 1
+Miami Heat,Eastern,12,17,0.414,7,7-11,2-3,7-7,5-10,0-3,5-5,W 1
+Milwaukee Bucks,Eastern,56,17,0.767,0,37-7,13-1,30-5,26-12,1-2,3-7,L 1
+Milwaukee Bucks,Eastern,60,22,0.732,0,40-12,14-2,33-8,27-14,1-3,7-3,L 1
+Milwaukee Bucks,Eastern,33,49,0.402,24,21-31,4-12,23-18,10-31,4-0,3-7,L 2
+Milwaukee Bucks,Eastern,42,40,0.512,11,27-25,10-6,23-18,19-22,1-3,5-5,L 1
+Milwaukee Bucks,Eastern,44,38,0.537,15,27-25,6-10,25-16,19-22,3-3,6-4,L 1
+Milwaukee Bucks,Eastern,16,13,0.552,3,12-7,8-1,9-4,7-9,0-0,5-5,L 5
+Minnesota Timberwolves,Western,47,35,0.573,18,34-18,10-6,30-11,17-24,3-2,6-4,W 3
+Minnesota Timberwolves,Western,36,46,0.439,21,22-30,5-11,25-16,11-30,3-3,4-6,L 3
+Minnesota Timberwolves,Western,31,51,0.378,36,18-34,5-11,20-21,11-30,2-3,3-7,L 6
+Minnesota Timberwolves,Western,29,53,0.354,44,18-34,4-12,14-27,15-26,4-3,5-5,W 1
+Minnesota Timberwolves,Western,19,45,0.297,29.5,9-30,2-10,8-24,11-21,4-3,3-7,L 3
+Minnesota Timberwolves,Western,7,22,0.241,17,4-14,2-4,4-10,3-12,0-2,2-8,L 2
+New Orleans Pelicans,Western,34,48,0.415,33,20-32,6-10,21-20,13-28,3-5,4-6,W 1
+New Orleans Pelicans,Western,30,52,0.366,43,20-32,4-12,21-20,9-32,1-3,4-6,L 3
+New Orleans Pelicans,Western,30,42,0.417,22.5,18-30,4-9,15-21,15-21,2-4,4-6,L 3
+New Orleans Pelicans,Western,33,49,0.402,24,23-29,8-8,19-22,14-27,1-2,3-7,L 1
+New Orleans Pelicans,Western,48,34,0.585,17,27-25,9-7,24-17,24-17,7-2,6-4,W 5
+New Orleans Pelicans,Western,12,16,0.429,11.5,7-11,4-2,7-6,5-10,0-1,5-5,L 1
+New York Knicks,Eastern,29,53,0.354,30,17-35,6-10,19-22,10-31,1-4,3-7,W 1
+New York Knicks,Eastern,21,45,0.318,31.5,15-28,2-11,11-22,10-23,3-1,4-6,W 1
+New York Knicks,Eastern,31,51,0.378,22,22-30,5-11,19-22,12-29,1-3,4-6,W 1
+New York Knicks,Eastern,32,50,0.39,25,21-31,8-8,18-23,14-27,2-2,3-7,L 2
+New York Knicks,Eastern,17,65,0.207,43,11-41,2-14,9-32,8-33,2-1,3-7,L 1
+New York Knicks,Eastern,14,16,0.467,5.5,10-10,1-3,7-6,7-10,0-0,5-5,L 1
+Oklahoma City Thunder,Western,48,34,0.585,17,28-24,5-11,27-14,21-20,3-1,5-5,W 3
+Oklahoma City Thunder,Western,44,28,0.611,8.5,27-19,8-5,23-14,21-14,4-2,6-4,L 1
+Oklahoma City Thunder,Western,55,27,0.671,18,37-15,13-3,32-9,23-18,3-2,5-5,L 1
+Oklahoma City Thunder,Western,49,33,0.598,8,28-24,9-7,27-14,22-19,2-3,7-3,W 5
+Oklahoma City Thunder,Western,47,35,0.573,20,29-23,10-6,28-13,19-22,4-1,6-4,L 1
+Oklahoma City Thunder,Western,11,17,0.393,12.5,5-14,2-5,4-9,7-8,1-2,3-7,L 2
+Orlando Magic,Eastern,35,47,0.427,22,21-31,4-12,23-18,12-29,3-5,6-4,L 1
+Orlando Magic,Eastern,29,53,0.354,24,20-32,7-9,16-25,13-28,2-2,3-7,W 1
+Orlando Magic,Eastern,25,57,0.305,34,15-37,5-11,17-24,8-33,2-0,4-6,W 1
+Orlando Magic,Eastern,33,40,0.452,23,20-23,9-5,18-17,15-23,1-1,5-5,W 1
+Orlando Magic,Eastern,42,40,0.512,18,30-22,10-6,25-16,17-24,1-3,8-2,W 4
+Orlando Magic,Eastern,11,18,0.379,8,8-10,4-1,6-8,5-10,0-1,3-7,W 1
+Philadelphia 76ers,Eastern,51,31,0.622,9,31-21,8-8,31-10,20-21,2-3,4-6,W 1
+Philadelphia 76ers,Eastern,52,30,0.634,7,34-18,9-7,30-11,22-19,1-1,10-0,W 16
+Philadelphia 76ers,Eastern,28,54,0.341,25,19-33,7-9,17-24,11-30,1-4,1-9,L 8
+Philadelphia 76ers,Eastern,10,72,0.122,47,3-49,2-14,7-34,3-38,0-4,1-9,L 4
+Philadelphia 76ers,Eastern,43,30,0.589,13,28-18,11-5,31-4,12-26,1-2,5-5,W 1
+Philadelphia 76ers,Eastern,19,10,0.655,0,15-4,5-1,12-2,7-8,1-1,6-4,W 1
+Phoeni Suns,Western,34,39,0.466,19,19-27,6-9,17-22,17-17,1-2,9-1,W 8
+Phoeni Suns,Western,23,59,0.28,50,17-35,6-10,14-27,9-32,0-1,3-7,W 1
+Phoeni Suns,Western,19,63,0.232,38,11-41,3-13,12-29,7-34,3-3,2-8,L 2
+Phoeni Suns,Western,21,61,0.256,44,15-37,4-12,10-31,11-30,0-1,2-8,W 1
+Phoeni Suns,Western,24,58,0.293,43,11-41,3-13,15-26,9-32,3-3,2-8,L 1
+Phoeni Suns,Western,17,10,0.63,6,9-7,2-2,10-5,7-5,0-3,8-2,L 1
+Portland Trail Blazers,Western,53,29,0.646,4,29-23,6-10,32-9,21-20,4-2,8-2,W 3
+Portland Trail Blazers,Western,44,38,0.537,29,29-23,11-5,28-13,16-25,2-3,7-3,W 1
+Portland Trail Blazers,Western,35,39,0.473,18.5,20-27,5-8,21-15,14-24,3-0,7-3,W 3
+Portland Trail Blazers,Western,41,41,0.5,26,28-24,11-5,25-16,16-25,4-5,7-3,L 1
+Portland Trail Blazers,Western,49,33,0.598,16,31-21,9-7,28-13,21-20,2-1,5-5,W 1
+Portland Trail Blazers,Western,18,10,0.643,5.5,9-6,2-2,8-5,10-5,1-1,8-2,W 6
+Sacramento Kings,Western,33,49,0.402,40,19-33,8-8,18-23,15-26,0-3,5-5,L 1
+Sacramento Kings,Western,31,41,0.431,21.5,23-23,8-5,16-19,15-22,2-4,4-6,W 2
+Sacramento Kings,Western,27,55,0.329,38,14-38,5-11,14-27,13-28,3-0,4-6,W 1
+Sacramento Kings,Western,32,50,0.39,35,21-31,7-9,17-24,15-26,2-6,5-5,L 1
+Sacramento Kings,Western,39,43,0.476,18,21-31,4-12,24-17,15-26,0-2,3-7,L 3
+Sacramento Kings,Western,12,16,0.429,11.5,6-10,2-4,7-11,5-5,1-1,4-6,L 5
+San Antonio Spurs,Western,32,39,0.451,20,20-23,7-6,19-15,13-24,4-2,6-4,L 1
+San Antonio Spurs,Western,61,21,0.744,6,36-16,11-5,31-10,30-11,4-1,5-5,L 3
+San Antonio Spurs,Western,67,15,0.817,6,43-9,14-2,40-1,27-14,1-0,6-4,W 2
+San Antonio Spurs,Western,48,34,0.585,9,30-22,10-6,32-9,16-25,3-1,6-4,W 3
+San Antonio Spurs,Western,47,35,0.573,18,29-23,9-7,33-8,14-27,1-1,5-5,L 1
+San Antonio Spurs,Western,16,11,0.593,7,11-11,3-5,7-8,9-3,1-1,7-3,W 2
+Toronto Raptors,Eastern,51,31,0.622,2,34-18,14-2,28-13,23-18,3-1,8-2,W 4
+Toronto Raptors,Eastern,53,19,0.736,2.5,34-11,9-5,26-10,27-9,2-2,9-1,W 4
+Toronto Raptors,Eastern,58,24,0.707,2,36-16,12-4,32-9,26-15,4-3,7-3,W 2
+Toronto Raptors,Eastern,56,26,0.683,1,39-13,14-2,32-9,24-17,3-1,7-3,W 4
+Toronto Raptors,Eastern,59,23,0.72,0,40-12,12-4,34-7,25-16,4-2,6-4,L 1
+Toronto Raptors,Eastern,14,15,0.483,5,11-7,2-3,6-6,8-9,0-0,7-3,W 2
+Utah Jazz,Western,50,32,0.61,7,30-22,8-8,29-12,21-20,0-2,8-2,L 1
+Utah Jazz,Western,48,34,0.585,17,34-18,7-9,28-13,20-21,2-1,7-3,L 1
+Utah Jazz,Western,51,31,0.622,16,31-21,8-8,29-12,22-19,2-1,7-3,W 2
+Utah Jazz,Western,40,42,0.488,33,24-28,8-8,24-17,16-25,5-5,5-5,L 2
+Utah Jazz,Western,44,28,0.611,8.5,24-21,5-7,23-12,21-16,0-2,4-6,W 1
+Utah Jazz,Western,24,5,0.828,0,11-3,3-2,13-2,11-3,0-0,9-1,W 9
+Washington Wizards,Eastern,43,39,0.524,16,28-24,8-8,23-18,20-21,3-3,3-7,L 1
+Washington Wizards,Eastern,41,41,0.5,16,30-22,10-6,22-19,19-22,0-2,6-4,W 3
+Washington Wizards,Eastern,32,50,0.39,28,19-33,7-9,22-19,10-31,3-4,2-8,L 4
+Washington Wizards,Eastern,25,47,0.347,30.5,18-27,5-9,16-20,9-27,0-3,2-8,W 1
+Washington Wizards,Eastern,49,33,0.598,4,32-20,8-8,30-11,19-22,4-3,5-5,L 1
+Washington Wizards,Eastern,9,17,0.346,8.5,5-13,1-6,5-9,4-8,0-0,5-5,W 3
