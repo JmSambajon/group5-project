@@ -16,6 +16,8 @@ A blueprint for the dashboard is created and includes all of the following:
 
 **1) Presentation Slides** 
 
+The presentation slides has information about the dashboard blueprint, tableau stories, and tools used.
+
 [Link to the NBA Stats Analysis Google Slides](https://docs.google.com/presentation/d/15FJdZAEZWmijdhovykL48H5_bhHrKH4fqiXHvQegeHI/edit?ts=60347186#slide=id.gbfbce31b8d_0_11)
 
 **2) Tools to create the Dashboard:**
