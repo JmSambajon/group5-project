@@ -30,6 +30,12 @@ The presentation slides has information about the dashboard blueprint, tableau s
 
 *Our team has decided to use Tableau Desktop as the application for data visualization. Tableau is a business intelligence and data visualization tool. It specializes in transforming tabulated data into interactive graphs and representations.* 
 
+[Link to the Tableau Dashboard](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/Dashboard2?publish=yes)
+
+[Link to the Tableau Stories](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/DashboardFilter?publish=yes)
+
+Dashboad Blueprint Slide Image:
+
 ![](./Pictures/DashboardBlueprintSeg2.png)
 
 
