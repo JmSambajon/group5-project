@@ -67,7 +67,7 @@ We plan to use a linear regression model. More information on the model can be f
 
 - Linear Regression
 
-- Pearson Correlation Coeficient
+- Pearson Correlation Coefficient
 
 - Mean Square Regression
 
