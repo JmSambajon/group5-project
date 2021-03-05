@@ -3,6 +3,10 @@
 ## Overview of the Analysis
 Through our common interest in basketball we wanted to dig deeper into NBA team statistics. Our plan is to use NBA stats to predict the winner of the current NBA season. 
 
+## Team Members
+
+![Header](Pictures/Team.png)
+
 ## Questions we want to answer
 * Is there a correlation between higher scoring teams and wins?
 * Does defense statistics correlate with team wins?
