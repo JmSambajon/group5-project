@@ -45,11 +45,11 @@ Our database contains three tables. More information on the database setup can b
 
 Here is an ERD of our database:
 
-![ERD](Pictures/ReadmeSchema.png)
+![Header](Pictures/ReadmeSchema.png)
 
 Tables were joined to generate new tables for data processing in postgreSQL:
 
-![ERD](Pictures/Joinedtables.png)
+![Header](Pictures/JoinedTables.png)
 
 ## Data Analysis and Machine Learning
 
