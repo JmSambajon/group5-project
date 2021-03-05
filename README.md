@@ -3,45 +3,40 @@
 ## Overview of the Analysis
 Through our common interest in basketball we wanted to dig deeper into NBA team statistics. Our plan is to use NBA stats to predict the winner of the current NBA season. 
 
-Data-set sources:
+## Questions we want to answer
+* Is there a correlation between higher scoring teams and wins?
+* Does defense statistics correlate with team wins?
+* How accurate is our model?
+
+**Dataset sources:**
+
 * [Link to NBA individual player statistics](https://www.basketball-reference.com/leagues/NBA_2021_per_game.html) Our data was pulled on 2/18/2021
 
 * [Link to NBA team franchise names and abbreviations](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Basketball_Association/National_Basketball_Association_team_abbreviations)
+
 * [Link to NBA team standings](https://www.nba.com/standings) Our data was pulled on 2/18/2021
 
-## Communication Protocol
-* Slack on both computers and mobile devices
-* Weekly meetings on Mondays, Wednesdays and when necessary
+**Fields of importance Examples:**
 
-## Questions we want to answer
-* How accurate is our model?
-* Is there a correlation between higher scoring teams and winning probability?
-* Does defense actually win championships?
-* Does having a lot of turnovers cause more losses?
+* Points
+* Wins
+* Field Goal Made
+* Defensive Rebounds
+* Blocks
+* Steals
 
-## Fields of importance
-* Total Field goal percentage
-* Free throw percentage
-* 3 pointer mades
-* 3 pointer attempts
-* 3 pointer percentage
-* 2 pointer made
-* 2 pointer attempts
-* 2 pointer percentage
-* Total points
-* Offensive rebounds
-* Defensive rebounds
-* Total assists
-* Total steals
-* Total blocks
-* Amount of turnovers
+## Business Application Softwares
 
+**Google Cloud SQL** - *a fully-managed database service that helps set up, maintain, manage, and administer relational databases on* **Google Cloud** *Platform.*
 
-## Segment 1 Requirements
+**PostgreSQL** - *a highly stable database management system used as the primary data store or data warehouse for analytics applications.*
 
-Provisional database that stands in for the final database and accomplishes the following:
-* Sample data that mimics the expected final database structure or schema
-* Draft machine learning module is connected to the provisional database
+**Jupyter Notebook** - *an open-source web application that allows creation and sharing of documents that contain live code, equations, visualizations and explanatory text. Use for data cleaning and transformation, numerical simulation, statistical modeling, machine learning.*
+
+**Tableau Desktop / Public** - *a business intelligence and data visualization tool. It specializes in transforming tabulated data into interactive graphs and representations.*
+
+![Header](Pictures/ProcessFlow.png)
+
 
 ## Database setup
 Our database contains three tables. More information on the database setup can be found here:
