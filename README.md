@@ -63,25 +63,59 @@ The dashboard was created using Tableau Desktop and Public. More information on 
 
 ![ERD](Pictures/DashboardFinalBlueprint.png)
 
+**Interactive Dashboard and Stories:**
 
+[Link to Tableau Dashboard Website](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/Dashboard2?publish=yes)
 
+[Link to Tableau Story Website](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/Dashboard2?publish=yes)
 
+## Presentation Slides
 
+[Link to the Google Presentation](https://docs.google.com/presentation/d/15FJdZAEZWmijdhovykL48H5_bhHrKH4fqiXHvQegeHI/edit?usp=sharing)
 
+## Lesson Learned, Conclusion, and Next Steps
+
+**Lesson Learned and Analysis:**
+
+- Recognized that accuracy calculation is meaningless and should not be used for Logistic Regression modelling.
+
+- Total points and wins and it is not a good indicator based on Linear Regression and Random Forest modelling. 
+
+- Comparing the Pearson Correlation Coefficient with Wins and it has no correlation with any of the NBA individual statistics. This includes defensive statistics.
+
+- With high Pearson Correlation coefficient and strong linear regression, there is a correlation between field goal and total points. When a team makes a lot of field goal, they will score a lot of points
+
+**Conclusion**
+
+1. Is there a correlation between higher scoring teams and wins?
+
+- *There is no correlation between the higher scoring teams and wins.*
+
+2. Does defense statistics correlate with team wins?
+
+- *None of the defensive statistics correlated to winning the championship. In general, none of the NBA statistics correlated with winning games.*
+
+3. How accurate are our models?
+
+- *Our models are not accurate at predicting the winner of the NBA championships.*
+
+**Next Steps**
+
+Future Recommended analysis:
+
+- Refine data source by performing data cleaning to remove nuances that could affect the modeling result.
+
+- Explore Field Goal Attempt instead of Field Goal Made.
+
+- Perform multiple predictors.
+
+- Limited to only 5 seasons of data. With more funding, more season data can be obtained from NBA API
 
 All deliverables can be found using the links below:
 
-[Link to Tableau Dashboard](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/Dashboard2?publish=yes)
-
-[Link to Tableau Story](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/Dashboard2?publish=yes)
+## Resources
 
 [Link to Multiple Linear Regression notebook](https://github.com/JmSambajon/group5-project/blob/main/Refined%20Model%20for%20Segment%202.ipynb)
 
 [Link to Joined data sql schema](https://github.com/JmSambajon/group5-project/blob/main/Joined_data_schema.sql)
 
-[Link to the Google Presentation](https://docs.google.com/presentation/d/15FJdZAEZWmijdhovykL48H5_bhHrKH4fqiXHvQegeHI/edit?usp=sharing)
-
-
-## Results
-
-## Summary
