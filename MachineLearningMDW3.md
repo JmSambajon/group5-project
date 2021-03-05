@@ -32,10 +32,16 @@ Conclusion: Recognized that accuracy calculation is meaningless and should not b
 
 - Multiple Linear Regression was chosen to classify between higher scoring team and wins, differentiating by conference. This model is helpful in the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables)
 - NBA Statistics Data to review as part of the analysis: player/team total points, player/team amount of wins, and conference
-- To perform Linear Regression, the distribution of wins and total points were chart. Both charts do not show any normality
+- To perform Linear Regression, the relationship between wins and total points were charted on a scatter plot. Two linear regression lines were charted for Western and Eastern conference. However, these charts below show a weak correlation between wins and total points.
+
+![](Pictures/MultipleLinearRegression.PNG)
+
 - Mean square regression error was used to explore linear regression between wins and high scoring team 
 - Root Mean Square Error (RMSE) is a good measure of how accurately the model predicts the response. As a result, lower, values of RMSE indicate better fit. 
 - Using Pandas, the following mean squared error of 30.60 was obtained with a root square error of 5.531
+
+
+![](Pictures/LinearRegressionRMSE.PNG)
 
 Conclusion: With a RSME of 5.531, total points is not good indicator of wins.
 
@@ -44,6 +50,8 @@ Conclusion: With a RSME of 5.531, total points is not good indicator of wins.
 - Pearson Correlation Table was used to determine the correlation between total points and wins.
 - From this table, the pearson correlation coefficient for total points and wins is 0.044150. This indicates that high scoring team do not indicate more team wins.
 
+![](Pictures/totalpointswinsPearsonCorrelation.PNG)
+
 Conclusion: With linear regression with high RSME, and Low Pearson Correlation coefficient, there is no correlation between higher points and wins. When a team scores a lot of points, it doesn’t mean that they will get more wins. 
 
 ### Random Forest Regression Model
@@ -51,6 +59,8 @@ Conclusion: With linear regression with high RSME, and Low Pearson Correlation c
 - NBA Statistics Data used: team total points, team amount of wins, and team amount of lost
 - The “total points” and “wins” data were split into training and testing sets
 - RMSE is a good measure of how accurately the model predicts the response. As a result, lower, values of RMSE indicate better fit. 
+
+![](Pictures/RandomForestRegressionRSME.PNG)
 
 Conclusion: With a RSME of 30.754, total points is not good indicator of wins.
 
@@ -64,14 +74,17 @@ Conclusion: With a RSME of 30.754, total points is not good indicator of wins.
 - Blocks: Pearson Correlation of 0.059420
 - Turnovers: Pearson Correlation of 0.021662
 
+![](Pictures/PearsonDefensive.PNG)
+
+Conclusion: None of the defensive stats correlate with wins.
 
 ## Conclusion
 1) Is there a correlation between higher scoring teams and wins?
-- There is no correlation between the higher scoring teams and wins
+-- There is no correlation between the higher scoring teams and wins
 2) Does defense statistics correlate with team wins?
-- None of the defensive statistics correlated to winning the championship. In general, none of the NBA statistics correlated with winning games.
+-- None of the defensive statistics correlated to winning the championship. In general, none of the NBA statistics correlated with winning games.
 3) How accurate are our models?
-- Our models are not accurate at predicting the winner of the NBA championships
+-- Our models are not accurate at predicting the winner of the NBA championships
 
 
 
