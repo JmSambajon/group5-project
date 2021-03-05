@@ -27,7 +27,7 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 
 ## Business Application Softwares
 
-**Google Cloud SQL** - *a fully-managed database service that helps set up, maintain, manage, and administer relational databases on* **Google Cloud** *Platform.*
+**Google Cloud SQL** - *a fully-managed database service that helps set up, maintain, manage, and administer relational databases on Google Cloud Platform.*
 
 **PostgreSQL** - *a highly stable database management system used as the primary data store or data warehouse for analytics applications.*
 
@@ -38,7 +38,7 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 ![Header](Pictures/ProcessFlow.png)
 
 
-## Database setup
+## Database Setup and Exploratory Data
 Our database contains three tables. More information on the database setup can be found here:
 
 [Link to the Database Information README](https://github.com/JmSambajon/group5-project/blob/johns_data_analytics/DatabaseInfo.md)
@@ -47,24 +47,27 @@ Here is an ERD of our database:
 
 ![ERD](Pictures/ERD.png)
 
-## Analysis
-
-Machine learning model that stands in for the final machine learning model and accomplishes the following:
-* Takes in data in from the provisional database
-* Outputs label(s) for input data
+## Data Analysis and Machine Learning
 
 We plan to use a linear regression model. More information on the model can be found here:
 
-[Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/toai_data_analytics/MachineLearningMD.md)
+[Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/main/MachineLearningMDW3.md)
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+## Data Visualization and Dashboard:
 
-## Segment 2 Requirements:
+The dashboard was created using Tableau Desktop and Public. More information on the dashboard creation can be found in the links provided below:
 
-* Description of preliminary data preprocessing
-* Description of preliminary feature engineering and preliminary feature selection, including their decision- making process
-* Description of how data was split into training and testing sets
-* Explanation of model choice, including limitations and benefits
+[Link to the Data Visualization and Dashboard README](https://github.com/JmSambajon/group5-project/blob/main/Circle_Segment2.md)
+
+**Dashboard Blueprint:**
+
+![ERD](Pictures/DashboardFinalBlueprint.png)
+
+
+
+
+
+
 
 All deliverables can be found using the links below:
 
