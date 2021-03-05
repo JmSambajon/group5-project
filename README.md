@@ -45,7 +45,11 @@ Our database contains three tables. More information on the database setup can b
 
 Here is an ERD of our database:
 
-![ERD](Pictures/ERD.png)
+![ERD](Pictures/ReadmeSchema.png)
+
+Tables were joined to generate new tables for data processing in postgreSQL:
+
+![ERD](Pictures/Joinedtables.png)
 
 ## Data Analysis and Machine Learning
 
@@ -116,4 +120,8 @@ Future Recommended analysis:
 [Link to Multiple Linear Regression notebook](https://github.com/JmSambajon/group5-project/blob/main/Refined%20Model%20for%20Segment%202.ipynb)
 
 [Link to Joined data sql schema](https://github.com/JmSambajon/group5-project/blob/main/Joined_data_schema.sql)
+
+[Link to gitignore](https://github.com/JmSambajon/group5-project/blob/main/.gitignore)
+
+[Link to requirements.txt](https://github.com/JmSambajon/group5-project/blob/main/requirements.txt)
 
