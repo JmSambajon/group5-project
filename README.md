@@ -37,17 +37,17 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 
 ![Header](Pictures/ProcessFlow.png)
 
-
 ## Database Setup and Exploratory Data
-Our database contains three tables. More information on the database setup can be found here:
+
+* Our database contains three tables. More information on the database setup can be found here:
 
 [Link to the Database Information README](https://github.com/JmSambajon/group5-project/blob/johns_data_analytics/DatabaseInfo.md)
 
-Here is an ERD of our database:
+* Here is an ERD of our database:
 
 ![Header](Pictures/ReadmeSchema.png)
 
-Tables were joined to generate new tables for data processing in postgreSQL:
+* Tables were joined to generate new tables for data processing in postgreSQL:
 
 ![Header](Pictures/JoinedTables.png)
 
