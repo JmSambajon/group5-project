@@ -8,7 +8,9 @@ During this segment, the team's dashboard becomes prominent. Our interactive das
 
 [Link to the Tableau Stories](https://public.tableau.com/profile/john.s.2695#!/vizhome/Dashboard1_16143159757440/DashboardFilter?publish=yes)
 
-![](./Pictures/Finaldashboard.png)
+Tableau Dashboard Image:
+
+![](./Pictures/Final_dashboard.png)
 
 
 
