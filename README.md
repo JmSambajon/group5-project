@@ -61,6 +61,22 @@ We plan to use a linear regression model. More information on the model can be f
 
 [Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/main/MachineLearningMDW3.md)
 
+**Explored the following analytics:**
+
+- Logistic Regression
+
+- Linear Regression
+
+- Pearson Correlation Coeficient
+
+- Mean Square Regression
+
+- Random Forest Regression Model
+
+**Modelling results:**
+
+![Header](Pictures/Modelresults.png)
+
 ## Data Visualization and Dashboard:
 
 The dashboard was created using Tableau Desktop and Public. More information on the dashboard creation can be found in the links provided below:
