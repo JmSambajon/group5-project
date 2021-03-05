@@ -25,7 +25,7 @@ Through our common interest in basketball we wanted to dig deeper into NBA team 
 * Blocks
 * Steals
 
-## Business Application Softwares
+## Technologies and Process Flow
 
 **Google Cloud SQL** - *a fully-managed database service that helps set up, maintain, manage, and administer relational databases on Google Cloud Platform.*
 
