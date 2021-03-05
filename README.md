@@ -85,7 +85,7 @@ The dashboard was created using Tableau Desktop and Public. More information on 
 
 - With high Pearson Correlation coefficient and strong linear regression, there is a correlation between field goal and total points. When a team makes a lot of field goal, they will score a lot of points
 
-**Conclusion**
+**Conclusion:**
 
 1. Is there a correlation between higher scoring teams and wins?
 
@@ -99,19 +99,17 @@ The dashboard was created using Tableau Desktop and Public. More information on 
 
 - *Our models are not accurate at predicting the winner of the NBA championships.*
 
-**Next Steps**
+**Next Steps:**
 
 Future Recommended analysis:
 
-- Refine data source by performing data cleaning to remove nuances that could affect the modeling result.
+- *Refine data source by performing data cleaning to remove nuances that could affect the modeling result.*
 
-- Explore Field Goal Attempt instead of Field Goal Made.
+- *Explore Field Goal Attempt instead of Field Goal Made.*
 
-- Perform multiple predictors.
+- *Perform multiple predictors.*
 
-- Limited to only 5 seasons of data. With more funding, more season data can be obtained from NBA API
-
-All deliverables can be found using the links below:
+- *Limited to only 5 seasons of data. With more funding, more season data can be obtained from NBA API.*
 
 ## Resources
 
