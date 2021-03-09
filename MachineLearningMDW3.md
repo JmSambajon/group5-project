@@ -78,6 +78,9 @@ Conclusion: With a RSME of 30.754, total points is not good indicator of wins.
 
 Conclusion: None of the defensive stats correlate with wins.
 
+As we ran a linear regression model for this data analysis, no confusion matrix was generated for the machine learning model.
+
+
 ## Conclusion
 1) Is there a correlation between higher scoring teams and wins?
 -- There is no correlation between the higher scoring teams and wins
