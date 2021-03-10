@@ -61,6 +61,8 @@ We plan to use a linear regression model. More information on the model can be f
 
 [Link to the Model Information README](https://github.com/JmSambajon/group5-project/blob/main/MachineLearningMDW3.md)
 
+[Link to the final notebook for modelling](https://github.com/JmSambajon/group5-project/blob/main/Refining%20for%20Segment%203.ipynb)
+
 **Explored the following analytics:**
 
 - Logistic Regression
@@ -129,6 +131,10 @@ Future Recommended analysis:
 
 - *Refine data source by performing data cleaning to remove nuances that could affect the modeling result.*
 
+**Update:** *Performed data cleaning as recommended by our Teaching Assistant (TA). Removed the "Team" column and performed binary encoding on the "Conference" column. Repeated the modelling analysis and obtained the same results.*
+
+[Link to the notebook for data cleaning and reanalysis](https://github.com/JmSambajon/group5-project/blob/main/Modelling%20for%20Segment%204.ipynb)
+
 - *Explore Field Goal Attempt instead of Field Goal Made.*
 
 - *Perform multiple predictors.*
@@ -141,7 +147,11 @@ Future Recommended analysis:
 
 [Link to Joined data sql schema](https://github.com/JmSambajon/group5-project/blob/main/Joined_data_schema.sql)
 
+[Link to notebook for uploading datafiles in postgreSQL](https://github.com/JmSambajon/group5-project/blob/main/NBA%20Database.ipynb)
+
 [Link to gitignore](https://github.com/JmSambajon/group5-project/blob/main/.gitignore)
 
 [Link to requirements.txt](https://github.com/JmSambajon/group5-project/blob/main/requirements.txt)
+
+
 
